@@ -1,7 +1,6 @@
 # Greenhouse-Automation-and-Monitoring-System
-It is My Final Year Bachleors Degree Coursework Project
 
-It consists of temperature and humidity sensor node, soil moisture sensor node hardwired into raspberry pi where the final python code is embedded in the operating system as a high priority startup background daemon.
+This project consists of temperature and humidity sensor node, soil moisture sensor node hardwired into raspberry pi where the final python code is embedded in the operating system as a high priority startup background daemon.
 
 As soon as you will boot the raspberry pi the system will start functioning. 
 
